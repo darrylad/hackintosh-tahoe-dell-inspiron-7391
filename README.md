@@ -52,11 +52,11 @@
 
 - [HoRNDIS.kext](https://drive.google.com/file/d/1oBKn5JwKisGOaADY5dE85-coVNqXrkFx/view) - for USB Tethering with Android devices
 
-## Steps 
+### Steps 
 
 It is recommended that you follow these steps below instead of using my EFI directly. This process should work for most supported computers.
 
-### TL;DR
+#### TL;DR
 
 1. Run OpCore-Simplify.bat and run Step 1 and Step 6.
 2. Generate UTBMap.kext with USBToolBox, and add it and HoRNDIS.kext to `EFI\OC\Kexts` and update config.plist using OCAT.
@@ -74,7 +74,7 @@ It is recommended that you follow these steps below instead of using my EFI dire
 12. Approve loaded extension in Settings, reboot, and optionally reset NVRAM.
 13. If OpenCore bootloader doesn't show up without flash drive, add boot option in BIOS with path `\EFI\OC\OpenCore.efi`.
 
-### Detailed Steps
+#### Detailed Steps
 
 1. Boot into Windows.
 2. Install Python from the Microsoft Store.
