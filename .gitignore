@@ -1,0 +1,25 @@
+# macOS system files
+/.Spotlight-V100
+/.fseventsd
+/System Volume Information
+
+# macOS cruft
+.DS_Store
+._*
+
+# EFI contents beyond OC
+/EFI/Microsoft/
+/EFI/Apple/
+/EFI/Boot/BCD
+/efi/Microsoft/
+/efi/Apple/
+/efi/Boot/BCD
+
+# old configs
+/efi/oc/oldConfig.plist
+/EFI/OC/oldConfig.plist
+
+# Logs/dumps 
+*.log
+*.dump
+*.dmp
