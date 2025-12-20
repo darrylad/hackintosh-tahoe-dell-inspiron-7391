@@ -2,7 +2,7 @@
 
 ## Specs
 
-<img width="570" height="400" alt="image" src="https://i.dell.com/sites/csimages/Video_Imagery/all/inspiron-13-7000-2-in-1-black.png" />
+<img width="570" height="400" alt="image" src="https://github.com/user-attachments/assets/d4c862be-eabb-4840-b5ae-8e2a037c4e34" />
 
 [Dell Inspiron 7391 2-in-1](https://www.dell.com/support/manuals/en-hk/inspiron-13-7391-laptop/inspiron-7391-setup-and-specifications/specifications-of-inspiron-7391?guid=guid-7c9f07ce-626e-44ca-be3a-a1fb036413f9&lang=en-us)
 
