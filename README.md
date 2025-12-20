@@ -1,8 +1,9 @@
 # Setup
 
-## Specs
-
 <img width="570" height="400" alt="image" src="https://github.com/user-attachments/assets/d4c862be-eabb-4840-b5ae-8e2a037c4e34" />
+
+
+## Specs
 
 [Dell Inspiron 7391 2-in-1](https://www.dell.com/support/manuals/en-hk/inspiron-13-7391-laptop/inspiron-7391-setup-and-specifications/specifications-of-inspiron-7391?guid=guid-7c9f07ce-626e-44ca-be3a-a1fb036413f9&lang=en-us)
 
@@ -15,6 +16,8 @@
 - Display: 13.3" UHD IPS Touchscreen
 
 ## Functionality:
+
+![Screenshot 2025-12-20 at 3 09 04 PM](https://github.com/user-attachments/assets/d201e490-916b-4549-8dd7-951aa926fcf0)
 
 ### Working:
 
