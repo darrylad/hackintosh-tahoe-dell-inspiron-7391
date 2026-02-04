@@ -32,7 +32,8 @@
 
 ### Not Working:
 
-- 
+- Connection with Enterprise security and WPA3 security WiFi networks
+- Airdrop, and other continuity features
 
 ## Procedure
 
